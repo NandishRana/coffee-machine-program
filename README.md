@@ -14,7 +14,7 @@ Welcome to the Coffee Machine Simulator! This program emulates the functionality
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/NandishRana/pong-game.git
+   git clone https://github.com/NandishRana/coffee-machine-program.git
    cd coffe-machine-program
    ```
 
